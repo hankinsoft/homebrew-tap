@@ -1,6 +1,6 @@
 cask "hydra-dev-studio" do
-  version "2026.305"
-  sha256 "48c7781b359cbd5988f56374815855cc8bc59efc16450b48ce68136a2189abec"
+  version "2026.305.1"
+  sha256 "cebf8f5afaff0e4f2a527b7dc035cee0b9d29299902bf5024f32a6470c5d7cc0"
 
   url "https://hydradevstudio.com/downloads/Hydra%20Dev%20Studio.#{version}.app.zip"
   name "Hydra Dev Studio"
